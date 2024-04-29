@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pracownik>
+    <Imie>Adam</Imie>
+    <Nazwisko>Badan</Nazwisko>
+    <DUrodzenia>sobota, 13 kwietnia 2024</DUrodzenia>
+    <Pensja>400</Pensja>
+    <Stanowisko>Tester</Stanowisko>
+    <Umowa>umowa na czas określony</Umowa>
+  </Pracownik>
+  <Pracownik>
+    <Imie>Karol</Imie>
+    <Nazwisko>Parol</Nazwisko>
+    <DUrodzenia>sobota, 13 kwietnia 2024</DUrodzenia>
+    <Pensja>850</Pensja>
+    <Stanowisko>Projektant</Stanowisko>
+    <Umowa>umowa na czas nieokreślony</Umowa>
+  </Pracownik>
+  <Pracownik>
+    <Imie>Iza</Imie>
+    <Nazwisko>Eliza</Nazwisko>
+    <DUrodzenia>sobota, 24 grudnia 1960</DUrodzenia>
+    <Pensja>50000</Pensja>
+    <Stanowisko>Starszy programista</Stanowisko>
+    <Umowa>umowa na czas nieokreślony</Umowa>
+  </Pracownik>
+</ArrayOfPracownik>
