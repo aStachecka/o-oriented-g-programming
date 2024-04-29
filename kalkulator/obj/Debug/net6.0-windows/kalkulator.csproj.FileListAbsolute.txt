@@ -1,0 +1,32 @@
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.Form1.resources
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.csproj.GenerateResource.cache
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.AssemblyInfoInputs.cache
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.AssemblyInfo.cs
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.exe
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.deps.json
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.runtimeconfig.json
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.dll
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.pdb
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.dll
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\refint\kalkulator.dll
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.pdb
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.genruntimeconfig.cache
+C:\Users\ola86\Desktop\studia shit\programowanie oig\kalkulator\obj\Debug\net6.0-windows\ref\kalkulator.dll
+D:\studia\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.exe
+D:\studia\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.deps.json
+D:\studia\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.runtimeconfig.json
+D:\studia\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.dll
+D:\studia\programowanie oig\kalkulator\bin\Debug\net6.0-windows\kalkulator.pdb
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.Form1.resources
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.csproj.GenerateResource.cache
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.AssemblyInfoInputs.cache
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.AssemblyInfo.cs
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.csproj.CoreCompileInputs.cache
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.dll
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\refint\kalkulator.dll
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.pdb
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\kalkulator.genruntimeconfig.cache
+D:\studia\programowanie oig\kalkulator\obj\Debug\net6.0-windows\ref\kalkulator.dll
