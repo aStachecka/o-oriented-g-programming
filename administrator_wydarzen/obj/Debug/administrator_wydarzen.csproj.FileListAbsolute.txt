@@ -1,0 +1,10 @@
+D:\studia\programowanie oig\administrator_wydarzen\bin\Debug\administrator_wydarzen.exe.config
+D:\studia\programowanie oig\administrator_wydarzen\bin\Debug\administrator_wydarzen.exe
+D:\studia\programowanie oig\administrator_wydarzen\bin\Debug\administrator_wydarzen.pdb
+D:\studia\programowanie oig\administrator_wydarzen\obj\Debug\administrator_wydarzen.csproj.AssemblyReference.cache
+D:\studia\programowanie oig\administrator_wydarzen\obj\Debug\administrator_wydarzen.Properties.Resources.resources
+D:\studia\programowanie oig\administrator_wydarzen\obj\Debug\administrator_wydarzen.csproj.GenerateResource.cache
+D:\studia\programowanie oig\administrator_wydarzen\obj\Debug\administrator_wydarzen.csproj.CoreCompileInputs.cache
+D:\studia\programowanie oig\administrator_wydarzen\obj\Debug\administrator_wydarzen.exe
+D:\studia\programowanie oig\administrator_wydarzen\obj\Debug\administrator_wydarzen.pdb
+D:\studia\programowanie oig\administrator_wydarzen\obj\Debug\administrator_wydarzen.Views.Form1.resources

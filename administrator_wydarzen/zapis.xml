@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <Title>Spotkanie z klientem</Title>
+    <Description>Omówienie szczegółów nowego projektu.</Description>
+    <Date>2024-05-05T10:53:03</Date>
+    <Type>Praca</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Urodziny mamy</Title>
+    <Description>Organizacja przyjęcia urodzinowego dla mamy.</Description>
+    <Date>2024-05-04T10:53:03</Date>
+    <Type>Rodzina</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wyjście do kina</Title>
+    <Description>Wyjście do kina na premierę nowego filmu.</Description>
+    <Date>2024-05-08T10:53:03</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wizyta u lekarza</Title>
+    <Description>Regularna kontrola zdrowia.</Description>
+    <Date>2024-05-22T10:53:03</Date>
+    <Type>Zdrowie</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Trening</Title>
+    <Description>Trening cardio.</Description>
+    <Date>2024-05-03T10:53:03</Date>
+    <Type>Sport</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Prezentacja projektu</Title>
+    <Description>Przedstawienie projektu przed zarządem.</Description>
+    <Date>2024-05-16T10:53:03</Date>
+    <Type>Praca</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Spacer z psem</Title>
+    <Description>Długi spacer do nowego parku z psem.</Description>
+    <Date>2024-05-04T10:53:03</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wizyta u dentysty</Title>
+    <Description>Regularna kontrola stomatologiczna.</Description>
+    <Date>2024-05-20T10:53:03</Date>
+    <Type>Zdrowie</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wyjście na kolację</Title>
+    <Description>Rocznicowa kolacja z drugą połówką.</Description>
+    <Date>2024-05-18T10:53:03</Date>
+    <Type>Rodzina</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Szkolenie z Excela</Title>
+    <Description>Szkolenie z zaawansowanych funkcji Excela.</Description>
+    <Date>2024-05-07T10:53:03</Date>
+    <Type>Praca</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Sprzątanie mieszkania</Title>
+    <Description>Wiosenne sprzątanie mieszkania</Description>
+    <Date>2024-04-29T10:53:03</Date>
+    <Type>Inne</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Spotkanie z przyjaciółmi</Title>
+    <Description>Spotkanie z przyjaciółmi w domu jednego z przyjaciół.</Description>
+    <Date>2024-04-27T10:53:03</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wizyta u weterynarza</Title>
+    <Description>Regularna kontrola zdrowia kota.</Description>
+    <Date>2024-05-13T10:53:03</Date>
+    <Type>Zdrowie</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wycieczka rowerowa</Title>
+    <Description>Wycieczka rowerowa z przyjaciółmi.</Description>
+    <Date>2024-06-01T10:53:03</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Grill</Title>
+    <Description>Grill z rodziną.</Description>
+    <Date>2024-05-03T10:53:03</Date>
+    <Type>Rodzina</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Spotkanie z mentorami</Title>
+    <Description>Spotkanie z mentorami w ramach programu rozwoju zawodowego.</Description>
+    <Date>2024-05-29T10:53:03</Date>
+    <Type>Praca</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Koncert</Title>
+    <Description>Wyjście na koncert z przyjaciółmi.</Description>
+    <Date>2024-06-04T10:53:03</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Warsztaty kreatywne</Title>
+    <Description>Udział w warsztatach kreatywnych.</Description>
+    <Date>2024-06-07T10:53:03</Date>
+    <Type>Inne</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Rozmowa o pracę</Title>
+    <Description>Rozmowa o nową pracę.</Description>
+    <Date>2024-06-18T10:53:03</Date>
+    <Type>Praca</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wypłata</Title>
+    <Description>Dzień wypłaty.</Description>
+    <Date>2024-06-10T10:53:03</Date>
+    <Type>Praca</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wizyta u babci</Title>
+    <Description>Regularne odwiedziny babci.</Description>
+    <Date>2024-06-21T10:53:03</Date>
+    <Type>Rodzina</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wyjazd na urlop</Title>
+    <Description>Wyjazd na długo wyczekiwany urlop.</Description>
+    <Date>2024-06-28T10:53:03</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Zajęcia jogi</Title>
+    <Description>Wyjście na nowe zajęcia jogi w mieście.</Description>
+    <Date>2024-06-29T10:53:03</Date>
+    <Type>Sport</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Jogging</Title>
+    <Description>Krótki poranny jogging</Description>
+    <Date>2024-05-19T10:53:03</Date>
+    <Type>Sport</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Pobieranie krwi</Title>
+    <Description>Kontrolne pobieranie krwi.</Description>
+    <Date>2024-05-27T10:53:03</Date>
+    <Type>Zdrowie</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wybory</Title>
+    <Description>Wybory samorządowe</Description>
+    <Date>2024-06-09T10:53:03</Date>
+    <Type>Inne</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Przesadzanie kwiatów</Title>
+    <Description>Przesadzanie kwiatów do większych doniczek.</Description>
+    <Date>2024-05-11T10:53:03</Date>
+    <Type>Inne</Type>
+    <Priority>Mało ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Odbiór tortu</Title>
+    <Description>Odbiór tortu na urodziny siostry.</Description>
+    <Date>2024-05-30T10:53:03</Date>
+    <Type>Inne</Type>
+    <Priority>Średnio ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Wyjazd służbowy</Title>
+    <Description>Ważny wyjazd służbowy</Description>
+    <Date>2024-07-04T10:53:03</Date>
+    <Type>Praca</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+  <Event>
+    <Title>Lekarz córki</Title>
+    <Description>Wizyta u lekarza z córką.</Description>
+    <Date>2024-06-25T10:53:03</Date>
+    <Type>Zdrowie</Type>
+    <Priority>Bardzo ważne</Priority>
+  </Event>
+</ArrayOfEvent>
